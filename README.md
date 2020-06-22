@@ -19,3 +19,8 @@
 1. Все задания в файле Practice_task_4
 - [Ссылка на gist.github](https://gist.github.com/manInit/c81a28df0e3454b199a7af662962931f)
 - [Ссылка на nbviewer](https://nbviewer.jupyter.org/gist/manInit/c81a28df0e3454b199a7af662962931f)	
+
+## Практика 5
+1. Все задания в файле Practice_task_5
+- [Ссылка на gist.github](https://gist.github.com/manInit/291aa1a2b215b6011ec2e28ebc66e735)
+- [Ссылка на nbviewer](https://nbviewer.jupyter.org/gist/manInit/291aa1a2b215b6011ec2e28ebc66e735)	
